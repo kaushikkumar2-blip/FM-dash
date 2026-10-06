@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+.claude/
+__pycache__/
+.streamlit/secrets.toml
+*.pyc

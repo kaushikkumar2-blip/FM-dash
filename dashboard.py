@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Pickup Hub Dashboard", layout="wide", page_icon="📦")
 
-CSV_PATH = r"C:\Users\kaushik.kumar2\OneDrive - Flipkart Internet Pvt. Ltd\Desktop\dashboard\8a296c1ba2cacc19409c6fb7a2d79640.csv"
+CSV_PATH = "8a296c1ba2cacc19409c6fb7a2d79640.csv"
 
 NUMERIC_COLS = [
     "fm_created", "fm_picked", "fm_created_unpicked",
